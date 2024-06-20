@@ -1,0 +1,32 @@
+{
+  "name": "WEB_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node WEB_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.WEB.com/git/WEB_rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "csv-parser": "^3.0.0",
+    "edit-json-file": "^1.7.0",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^9.0.1",
+    "m3u8-parser": "^7.1.0",
+    "node-schedule": "^2.1.1",
+    "sequelize": "^6.32.1",
+    "shelljs": "^0.8.5",
+    "socket-io-server": "^1.0.5",
+    "socket.io-client": "^2.3.0"
+  }
+}

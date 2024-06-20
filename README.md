@@ -1,1 +1,1 @@
-# web_rest
+# gn_rest

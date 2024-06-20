@@ -1,0 +1,7 @@
+{
+      "D"                       : false,
+      "secret_key"              :"test",
+      "session_expiry"          :"900000",
+      "logo_ip" 		: "http://125.99.242.35:8080/logo/",
+      "subscription_time"       : "23.45"
+}
